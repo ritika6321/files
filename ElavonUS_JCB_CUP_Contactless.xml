@@ -221,7 +221,7 @@
                                         <!-- Terminal Country Code -->
                                         <entry key="&lt;9F1A&gt;" value="0840" />
                                         <!-- Transaction Currency Code -->
-                                        <entry key="&lt;5F2A&gt;" value="0840" />
+                                        <entry key="&lt;5F2A&gt;" value="0156" />
                                         <!-- Transaction Currency Exponent -->
                                         <entry key="&lt;5F36&gt;" value="02" />
                                         <!-- Advice supported -->
@@ -492,7 +492,7 @@
                                             <entry key="&lt;9F09&gt;" value="0030" /> <!-- Terminal application version number-->
                                             <entry key="&lt;DF810C&gt;" value="07"/> <!-- Kernel ID -->
                                             <entry key="&lt;9F1A&gt;" value="0840" /> <!-- Terminal Country Code -->
-                                            <entry key="&lt;5F2A&gt;" value="0840" /> <!-- Transaction currency code -->
+                                            <entry key="&lt;5F2A&gt;" value="0156" /> <!-- Transaction currency code -->
                                             <entry key="&lt;DF1B&gt;" value="00A0"/> <!-- Amadis kernel config -->
                                             <entry key="&lt;DF2D&gt;" value="00000B"/> <!-- Message Hold Time off and Field Off Request -->
                                             <entry key="&lt;DF30&gt;" value="78"/> <!-- Amadis bitmmap entry point-->
@@ -522,7 +522,7 @@
                                             <entry key="&lt;9F09&gt;" value="0030" /> <!-- Terminal application version number-->
                                             <entry key="&lt;DF810C&gt;" value="07"/> <!-- Kernel ID -->
                                             <entry key="&lt;9F1A&gt;" value="0840" /> <!-- Terminal Country Code -->
-                                            <entry key="&lt;5F2A&gt;" value="0840" /> <!-- Transaction currency code -->
+                                            <entry key="&lt;5F2A&gt;" value="0156" /> <!-- Transaction currency code -->
                                             <entry key="&lt;DF1B&gt;" value="00A0"/> <!-- Amadis kernel config -->
                                             <entry key="&lt;DF2D&gt;" value="00000B"/> <!-- Message Hold Time off and Field Off Request -->
                                             <entry key="&lt;DF30&gt;" value="78"/> <!-- Amadis bitmmap entry point-->
@@ -550,7 +550,7 @@
                                             <entry key="&lt;9F09&gt;" value="0030" /> <!-- Terminal application version number-->
                                             <entry key="&lt;DF810C&gt;" value="07"/> <!-- Kernel ID -->
                                             <entry key="&lt;9F1A&gt;" value="0840" /> <!-- Terminal Country Code -->
-                                            <entry key="&lt;5F2A&gt;" value="0840" /> <!-- Transaction currency code -->
+                                            <entry key="&lt;5F2A&gt;" value="0156" /> <!-- Transaction currency code -->
                                             <entry key="&lt;DF1B&gt;" value="00A0"/> <!-- Amadis kernel config -->
                                             <entry key="&lt;DF2D&gt;" value="00000B"/> <!-- Message Hold Time off and Field Off Request -->
                                             <entry key="&lt;DF30&gt;" value="78"/> <!-- Amadis bitmmap entry point-->
@@ -578,7 +578,7 @@
                                             <entry key="&lt;9F09&gt;" value="0030" /> <!-- Terminal application version number-->
                                             <entry key="&lt;DF810C&gt;" value="07"/> <!-- Kernel ID -->
                                             <entry key="&lt;9F1A&gt;" value="0840" /> <!-- Terminal Country Code -->
-                                            <entry key="&lt;5F2A&gt;" value="0840" /> <!-- Transaction currency code -->
+                                            <entry key="&lt;5F2A&gt;" value="0156" /> <!-- Transaction currency code -->
                                             <entry key="&lt;DF1B&gt;" value="00A0"/> <!-- Amadis kernel config -->
                                             <entry key="&lt;DF2D&gt;" value="00000B"/> <!-- Message Hold Time off and Field Off Request -->
                                             <entry key="&lt;DF30&gt;" value="78"/> <!-- Amadis bitmmap entry point-->
@@ -632,7 +632,7 @@
                                             <entry key="&lt;DF22&gt;" value="FC60ACF800" /> <!-- Terminal Action Code - Online -->
                                             <entry key="&lt;DF6E&gt;" value="000000" /> <!-- Threshold value for Biased Random Selection -->
                                             <entry key="&lt;9F1A&gt;" value="0840" /> <!-- Terminal country code -->
-                                            <entry key="&lt;5F2A&gt;" value="0840" /> <!-- Transaction currency code -->
+                                            <entry key="&lt;5F2A&gt;" value="0156" /> <!-- Transaction currency code -->
                                             <entry key="&lt;5F36&gt;" value="02" /> <!-- Transaction Currency Exponent -->
                                             <entry key="&lt;DF1C&gt;" value="003C"/> <!-- Max Lifetime Torn Transactions -->
                                             <entry key="&lt;DF1D&gt;" value="01"/> <!-- Torn depth -->
@@ -821,7 +821,7 @@
                                 </node>
                                 <node name="Terminal Configuration">
                                     <map>
-                                        <entry key="&lt;5F2A&gt;" value="0840" />
+                                        <entry key="&lt;5F2A&gt;" value="0156" />
                                         <entry key="&lt;5F36&gt;" value="02" />
                                         <entry key="&lt;9F1A&gt;" value="0840" />
                                         <entry key="&lt;9F33&gt;" value="E0F0C8" />
